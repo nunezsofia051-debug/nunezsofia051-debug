@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Sofía Núñez
+# ¡Hola! 👋 Soy Sofía Nuñez
 
 💻 Estudiante de Programación
 
