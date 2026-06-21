@@ -2,7 +2,7 @@
 
 💻 Estudiante de Programación
 
-Soy estudiante de programación con interés en el desarrollo de software y las bases de datos. Actualmente desarrollo proyectos académicos utilizando Java, Programación Orientada a Objetos y PostgreSQL.
+Soy estudiante de Tecnicatura Univercitaria en Programacion Full Stack, en la Univercidad Provincial de Cordoba. Con interés en el desarrollo de software y las bases de datos. Actualmente desarrollo proyectos académicos utilizando JavaScript, Programación Orientada a Objetos y PostgreSQL.
 
 ## 🚀 Tecnologías y herramientas
 
