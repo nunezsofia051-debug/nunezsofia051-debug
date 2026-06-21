@@ -25,6 +25,7 @@ Videojuego desarrollado en JavaScript aplicando Programación Orientada a Objeto
 ### 🎬 Servicio-Streaming
 Aplicación desarrollada como proyecto académico para la gestión de un servicio de streaming, enfocada en la organización y administración de contenidos.
 
+
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nunezsofia051-debug&show_icons=true&theme=tokyonight)
