@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Sofía Núñez
 
-<!--
-**nunezsofia051-debug/nunezsofia051-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Programación
 
-Here are some ideas to get you started:
+Soy estudiante de programación con interés en el desarrollo de software y las bases de datos. Actualmente desarrollo proyectos académicos utilizando Java, Programación Orientada a Objetos y PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Tecnologías y herramientas
+
+- JavaScript
+- Programación Orientada a Objetos (POO)
+- PostgreSQL
+- Git y GitHub
+- HTML y CSS
+- PSeInt
+
+## 📂 Proyectos destacados
+
+### 🎮 VideoJuego-POO
+Videojuego desarrollado en JavaScript aplicando Programación Orientada a Objetos.
+
+### 🎬 Servicio-Streaming
+Aplicación desarrollada como proyecto académico para la gestión de un servicio de streaming, enfocada en la organización y administración de contenidos.
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/sofia-nu%C3%B1ez-23686833b/
+- GitHub: https://github.com/nunezsofia051-debug
+
+
 -->
