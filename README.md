@@ -13,6 +13,10 @@ Soy estudiante de Tecnicatura Univercitaria en Programacion Full Stack, en la Un
 - HTML y CSS
 - PSeInt
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,postgresql,vscode" />
+</p>
+
 ## 📂 Proyectos destacados
 
 ### 🎮 VideoJuego-POO
